@@ -1,15 +1,26 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
-.red-color{
-    color: red;
+.orange-color{
+    color: orange;
 }
 section{
     display: flex;
 }
 .half-width{
     width: 50%;
+    padding-left: 15%;
 }
 .half-width img{
     width: 80%;
+}
+h1{
+    font-size: 35px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(224, 160, 41);
+    padding: 10px 20px;
+    border-radius: 20px;
+    color: white;
 }
