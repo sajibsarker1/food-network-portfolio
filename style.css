@@ -31,3 +31,13 @@ h1{
     background-image: url(images/Frame\ 59.jpg);
     background-repeat: no-repeat;
 }
+footer p{
+    text-align: center;
+}
+footer h3{
+    text-align: center;
+}
+.Recipes-area{
+    padding: 3%;
+
+}
