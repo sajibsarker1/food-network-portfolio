@@ -10,8 +10,7 @@ section{
 }
 .half-width{
     width: 50%;
-   padding: 70px; 
-    
+   padding: 70px;   
    
 }
 .half-width img{
@@ -34,10 +33,27 @@ h1{
 footer p{
     text-align: center;
 }
-footer h3{
+footer h2{
     text-align: center;
+}
+.black-color{
+    background-color:rgb(182, 125, 56);
 }
 .Recipes-area{
     padding: 3%;
 
 }
+.item-area{
+    width: 82%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-left: 55px;
+    padding-right: 20px;
+    padding-top: 55px;
+    box-shadow: 10px 15px 40px gray;
+}
+.item-area img{
+    width: 90%
+
+}
+
