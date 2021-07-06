@@ -21,10 +21,11 @@ h1{
 }
 .link-button{
     text-decoration: none;
-    background-color: rgb(224, 160, 41);
+    background-image: linear-gradient(tomato, orange);
     padding: 10px 40px;
     border-radius: 20px;
     color: white;
+    font-weight: 700;
 }
 .cover-pic{
     background-image: url(images/Frame\ 59.jpg);
@@ -47,10 +48,12 @@ footer h2{
     width: 82%;
     margin-left: 2%;
     margin-right: 2%;
-    padding-left: 55px;
+    padding-left: 52px;
     padding-right: 20px;
-    padding-top: 55px;
+    padding-top: 52px;
     box-shadow: 10px 15px 40px gray;
+    border-radius: 40px;
+
 }
 .item-area img{
     width: 90%
